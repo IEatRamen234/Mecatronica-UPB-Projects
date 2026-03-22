@@ -33,7 +33,7 @@ O piesă industrială complexă, modelată pentru a demonstra controlul asupra g
 
 ---
 
-### Ax în trepte (Shaft with Keyway)
+### Ax în trepte 
 *Software: SolidWorks / Inventor*
 
 Acest proiect demonstrează precizia în modelarea pieselor de revoluție și integrarea elementelor de asamblare (canale de pană și găuri transversale).
@@ -44,8 +44,8 @@ Acest proiect demonstrează precizia în modelarea pieselor de revoluție și in
 
 ---
 
-### Angrenaj Planetar (Epicyclic Gearing)
-*Software: Autodesk Inventor / SolidWorks*
+### Angrenaj Planetar
+*Software: Autodesk Inventor*
 
 O asamblare mecanică complexă ce utilizează roți dințate pentru obținerea unor rapoarte de transmitere ridicate într-un spațiu compact.
 
@@ -59,3 +59,9 @@ O asamblare mecanică complexă ce utilizează roți dințate pentru obținerea 
 * **Aplicație:** Mecanisme de reducere pentru motoare electrice și robotică.
 
 ---
+### Cot Țeavă cu flanșe pătrate
+*Software: SolidWorks*
+<div align="center">
+  <img width="800" alt="Vedere sec'iune" src="https://github.com/user-attachments/assets/444182d0-7420-4652-b6ca-e1dab17b7d36" />
+</div>
+
